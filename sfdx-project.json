@@ -7,6 +7,5 @@
   ],
   "namespace": "",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "42.0",
-  "FakeParameter": "THIS SHOULD FAIL"
+  "sourceApiVersion": "42.0"
 }
